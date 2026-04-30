@@ -35,4 +35,6 @@ Increase employee allocation during morning rush hours.
 Promote low-performing products using combo offers.
 Run Monday-specific promotional campaigns.
 
+5. **ScreenShot/Demo**
+   <img width="450" height="310" alt="image" src="https://github.com/user-attachments/assets/e29dbd51-f5eb-49ad-b51f-6edb3fb2338b" />
 
